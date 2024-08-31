@@ -1,3 +1,6 @@
+---
+title: Home
+---
 ## Introduction
 This is a link→ [[DWYL]] If you click it it will take you to a page on this site.
 
