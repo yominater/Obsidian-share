@@ -13,3 +13,5 @@ Callouts mark Bible verses or quotes. They are named as such. Bible callouts wil
 > This is text inside a callout
 
 [[DWYL|Get started reading about DWYL]]
+
+[[Info|How this thing works]]
