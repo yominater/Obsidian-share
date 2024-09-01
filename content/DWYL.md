@@ -2,7 +2,7 @@
 tags:
   - religion/notes
 MOC: "[[{.Religion MOCO]]"
-title: Notes on the Book 'Don't Waste Your Life'
+title: Book Report
 ---
 # Notes on the Book 'Don't Waste Your Life'
 %%Notes added to [[Glorify God]], [[How to think about God]], [[What is human]], and [[Reading the Bible]]%%

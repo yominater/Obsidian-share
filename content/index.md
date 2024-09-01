@@ -2,7 +2,7 @@
 title: Home
 ---
 ## Introduction
-This is a link→ [[DWYL]] If you click it it will take you to a page on this site.
+This is a link→ [[DWYL.md|DWYL]] If you click it it will take you to a page on this site.
 
 Topics are subdivided into headings. Headings are rainbow colored starting from red and ending at purple.
 
