@@ -1,11 +1,11 @@
 ---
 tags:
   - religion/notes
-MOC: "[[{.Religion MOCO]]"
-title: Book Report
+MOC: "[Religion](Religion.md)"
+title: Notes on the Book 'Don't Waste Your Life'
 ---
 # Notes on the Book 'Don't Waste Your Life'
-%%Notes added to [[Glorify God]], [[How to think about God]], [[What is human]], and [[Reading the Bible]]%%
+%%Notes added to [Glorify God](Topics/Glorify%20God.md), [How to think about God](Topics/How%20to%20think%20about%20God.md), [Humans](Topics/Humans.md), and [Reading the Bible](Topics/Reading%20the%20Bible.md)%%
 [Online PDF version](https://cdn.desiringgod.org/pdf/books_dwyl/dwyl_full.pdf)
 ## Summary
 When we get to the end of our lives, and we are on our death bed, will we think back on our life and think that we have done all we could for the cause of Christ?
@@ -19,14 +19,14 @@ When we get to the end of our lives, and we are on our death bed, will we think 
 - **To glorify God by enjoying and displaying his supreme excellence in all the spheres of life**
 - Proving that Christ is our Treasure
 	- Not focusing on earthly treasures
-- [[DWYL#^b28b44|Glorifying God]]
+- [](.md#^b28b44|Glorifying%20God)
 	- *Adorning* him
 - Making "much of God"
 - Joyfully rescuing people from hell
 - Meeting their physical needs
 - Making them glad in God
 - Doing it with a kind, serious pleasure that makes Christ look like the Treasure he is
-- [[DWYL.md#Working Hard|Working hard]]
+- [](.md#Working%20Hard|Working%20hard)
 	- Giving to others
 
 Where does this leave us?
@@ -103,7 +103,7 @@ We only boast *in* the cross when we are *on* the cross. We are dead to the worl
 > [!bible]+ [Galatians 2:20 - NIV](https://bolls.life/NIV/48/2/)
 > 1. I have been crucified with Christ and I no longer live, but Christ lives in me. The life I live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
-We have been crucified. When Christ died, all that are and will be His died also. When we become His we(our old self) die. When we become His, our new self is [[born again]].
+We have been crucified. When Christ died, all that are and will be His died also. When we become His we(our old self) die. When we become His, our new self is [born again](born%20again).
 
 > What does that mean practically? Does the new self just mean that we have a want to do better more?
 
@@ -210,7 +210,7 @@ Some people are meant to stay behind and supply, to give. God calls us to differ
 > [!SUMMARY] Main idea
 > People should not be lazy. They should work hard.
 
-[[DWYL#^work|What should we work for?]]
+[](.md#^work|What%20should%20we%20work%20for?)
 ### How Can We Make much of God in the way We Work?
 #### 1. Through the Fellowship that We Enjoy with Him through the Day in All Our Work
 Christians don't just 'go to work', they go to work *with God*
@@ -319,6 +319,8 @@ For many, the move toward missions and deeds of mercy will not be a move away fr
 
 ### The Majesty of Christ in Missions and Mercy: A Plea to This Generation
 Missionaries and ministers of mercy don't come from nowhere, they come from people like us. If you a passion for have pity for perishing people and the reputation of Christ, you must care about world missions. 
+
+Loving people and glorifying Christ are not separate ideas. If you love people, you will lay down your life to make them eternally glad in God. To glorify Christ, you will also lay down your life to make people happy in God.
 
 
 

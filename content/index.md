@@ -2,7 +2,14 @@
 title: Home
 ---
 ## Introduction
-This is a link→ [[DWYL.md|DWYL]] If you click it it will take you to a page on this site.
+Welcome to my published Obsidian notes. Get started here:
+
+> [!INFO]- MOC List
+> ## Religion MOC
+> [Religion](Religion/Religion.md)
+
+## Intro to how this website works
+This is a link→ [Info](Info.md) If you click it it will take you to a page on this site. Internal links inside of the DWYL file don't work properly.
 
 Topics are subdivided into headings. Headings are rainbow colored starting from red and ending at purple.
 
@@ -12,6 +19,6 @@ Callouts mark Bible verses or quotes. They are named as such. Bible callouts wil
 > [!INFO] A callout
 > This is text inside a callout
 
-[[DWYL|Get started reading about DWYL]]
+[Get started reading about DWYL](Religion/DWYL.md)
 
-[[Info.md|How this thing works]]
+[How this thing works](Info.md)

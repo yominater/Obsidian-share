@@ -1,0 +1,1 @@
+God tells Rzekiel to phophesy against Egypt, telling that they will never again be a great nation.  
