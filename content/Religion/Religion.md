@@ -20,6 +20,44 @@ There are forces, however, working against God and us, trying to get us to stray
 	- [DWYL](DWYL.md)
 	- [Desiring God](https://www.desiringgod.org)
 %% Begin Waypoint %%
+- [[DWYL]]
+- [[the big picture]]
+- **Topics**
+	- [[A new way to see the world]]
+	- [[Evangelism]]
+	- [[Everyone has a gift]]
+	- [[Faith]]
+	- [[Forgiveness]]
+	- [[Glorify God]]
+	- [[Grace]]
+	- [[Hell]]
+	- [[How to follow Jesus]]
+	- [[How to think about God]]
+	- [[Humans need not worry]]
+	- [[Humans]]
+	- [[Hurting for Christ]]
+	- [[Judging(7-14)]]
+	- [[Laws]]
+	- [[Legalism]]
+	- [[Pastor]]
+	- [[Peace]]
+	- [[Prayer]]
+	- [[Reading the Bible]]
+	- [[Religion Goals]]
+	- [[Salvation]]
+	- [[Sanctification]]
+	- [[Stress;humility]]
+	- [[The end of humans]]
+	- [[What is God]]
+	- [[What is heaven]]
+	- [[What is sin]]
+	- [[What is the Bible]]
+	- [[What is the devil]]
+	- [[Where do good things come from]]
+	- [[Will God allow sin to go unpunished]]
+	- [[Works]]
+
+%% End Waypoint %%
 - **Archive**
 	- **Catechism**
 		- [7-21 Question 29](Archive/Catechism/7-21%20Question%2029.md)

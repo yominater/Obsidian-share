@@ -19,14 +19,14 @@ When we get to the end of our lives, and we are on our death bed, will we think 
 - **To glorify God by enjoying and displaying his supreme excellence in all the spheres of life**
 - Proving that Christ is our Treasure
 	- Not focusing on earthly treasures
-- [](.md#^b28b44|Glorifying%20God)
+- Glorifying God
 	- *Adorning* him
 - Making "much of God"
 - Joyfully rescuing people from hell
 - Meeting their physical needs
 - Making them glad in God
 - Doing it with a kind, serious pleasure that makes Christ look like the Treasure he is
-- [](.md#Working%20Hard|Working%20hard)
+- Working hard
 	- Giving to others
 
 Where does this leave us?
@@ -210,7 +210,7 @@ Some people are meant to stay behind and supply, to give. God calls us to differ
 > [!SUMMARY] Main idea
 > People should not be lazy. They should work hard.
 
-[](.md#^work|What%20should%20we%20work%20for?)
+
 ### How Can We Make much of God in the way We Work?
 #### 1. Through the Fellowship that We Enjoy with Him through the Day in All Our Work
 Christians don't just 'go to work', they go to work *with God*
@@ -322,13 +322,74 @@ Missionaries and ministers of mercy don't come from nowhere, they come from peop
 
 Loving people and glorifying Christ are not separate ideas. If you love people, you will lay down your life to make them eternally glad in God. To glorify Christ, you will also lay down your life to make people happy in God.
 
+We have a very limited understanding, therefore we should let got tell us what he wants; what his priorities are. Ensure we listen to him:
+
+> [!bible] [Psalm 22:27-28 - NIV](https://bolls.life/NIV/19/22/)
+> 27. All the ends of the earth<br/>will remember and turn to the Lord,<br/>and all the families of the nations<br/>will bow down before him,
+> 28. for dominion belongs to the Lord<br/>and he rules over the nations.
+
+*Old Testament Prayers:*
+> [!bible] [Psalm 67:3-4 - NIV](https://bolls.life/NIV/19/67/)
+> 3. May the peoples praise you, O God;<br/>may all the peoples praise you.
+> 4. May the nations be glad and sing for joy,<br/>for you rule the peoples justly<br/>and guide the nations of the earth. Selah
+
+*Old Testament commands:*
+> [!bible] [Psalm 97:3, 10 - NIV](https://bolls.life/NIV/19/97/)
+> 3 Fire goes before him<br/>and consumes his foes on every side. <br> <br>
+> 10 Let those who love the Lord hate evil,<br/>for he guards the lives of his faithful ones<br/>and delivers them from the hand of the wicked.
+
+*New Testament Commission from the risen Christ*:
+> [!bible] [Matthew 28:18-20 - NIV](https://bolls.life/NIV/40/28/)
+> 18. Then Jesus came to them and said, “All authority in heaven and on earth has been given to me.
+> 19. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+> 20. and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
+
+*the apostle Paul's great life of utter dedication to this mission:*
+> [!bible] [Romans 15:20-21 - NIV](https://bolls.life/NIV/45/15/)
+> 20. It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else’s foundation.
+> 21. Rather, as it is written:<br/>“Those who were not told about him will see,<br/>and those who have not heard will understand.”
+
+*the magnificent picture of the final outcome of God's purposes in history:*
+> [!bible] [Revelation 5:9-10 - NIV](https://bolls.life/NIV/66/5/)
+> 9. And they sang a new song:<br/>“You are worthy to take the scroll<br/>and to open its seals,<br/>because you were slain,<br/>and with your blood you purchased men for God<br/>from every tribe and language and people and nation.
+> 10. You have made them to be a kingdom and priests to serve our God,<br/>and they will reign on the earth.”
+
+> [!QUOTE]- [John Piper's church's statement of faith](https://www.Bethlehemcollegeandseminary.org) paragraph 13
+> We believe that the commission given by the Lord Jesus to make disciples of all nations in binding on His Church to the end of the age. This task is to proclaim the Gospel to every tribe and every tongue and people and nation, baptizing them, teaching them the words and ways of the Lord, and gathering them into churches able to fulfill their Christian calling among their own people. The ultimate aim of world missions is that God would create, by His Word, worshippers who glorify His name through glad-hearted faith and obedience. Missions exists because worship doesn't. When this age is over, and the countless millions of the redeemed fall on their faces before the throne of God, missions will be no more. It is a temporary necessity. But worship abides forever. Worship, therefore, is the fuel and the goal of missions.
+
+> [!QUOTE] John Piper
+> This is the big picture. Christ came and died and rose again in order to gather a joyful, countless company for his name from all the peoples of the world. This is what every Christian should dream about. 
+
+It is crucial to maintain wartime attitude and to maintain secular jobs. Christians dream about when there will be no more war. We should love to hear about the advance of Christ. 
+
+While we *should* focus on our walk with Jesus, that is not the main picture. The bigger things are more important. 
+
+Evangelism locally is important as internationally. We can't simply have eyes for the far away groups. Like Christ, who came as an example, we are to have mercy on others and serve the less fortunate. Mercy and missions are inextricable since the gospel we spread demands mercy to the poor at home. 
 
 
+> [!QUOTE]- Robert Murray M'Cheyne, Sermon LXXXII in *The Works of the Late Rev. Robert Murray M'Cheyne*
+> Now, dear Christians, some of you pray night and day to be branches of the true Vine; you pray to be made all over in the image of Christ. If so, you must be like him in giving... "though he was reich, yet for our sakes he became poor" ...
+> Objection 1. "My money is my own." Answer: Christ might have said, "My blood is my own, my life is my own" ... then where would we have been?
+> Objection 2. "The poor are undeserving." Answer: Christ might have said, "They are wicked rebels ... shall I lay down my life for these? I will give to the good angels." But no, he left the ninety-nine and came after the lost. He gave his blood for the undeserving. 
+> Objection 3. "The poor may abuse it." Answer: Christ might have said the sae; yea, with far greater truth. Christ knew that thousands would trample his blood under their feet; that most would despise it' that many would make it an excuse for sinning more; yet he gave his own blood.
+> Oh, my dear Christians! If you would be like Christ, give much, give often, give freely, to the vile and poor, the thankless and the undeserving. Christ is glorious and happy and so will you be. It is not your money I want, but your happiness. Remember his own word, "It is more blessed to give than to receive."
 
+For a wealthy person, if they have too much wealth, the only saving is constant giving. America has become many times richer since the 1930s, but the percentage of income given to the church has decreased. If people gave a lot more, the church would have a lot more money. 
 
+We won't fully know God in all his majesty until we know him moving among the nations. The scope of God's saving work enlarges our view of his triumphant grace. 
+
+Currently in the world about 26% of the world's population is unreached without indigenous evangelizing churches. Many places are completely enclaved.
+
+Don't be scared to be called upon. Pray for outreach an you might be called upon. God owns the world, so all of it is his.
+
+> [!QUOTE] John Piper
+> No, you don't have to be a missionary to admire and advance the great purposes of God to be known and praised and enjoyed among all peoples. But if you want to be most fully satisfied with God as he triumphs in the history of redemption, you can't go on with business as usual--doing your work, making your money, giving your tithe, eating, sleeping, playing, and going to church. Instead you need to stop and go away for a few days with a Bible and a notepad, and pray and think about how your particular time and place in life fits into the great purpose of God to make the nations glad in him. How will you join the great global purpose of God expressed in Psalm 67:4, "Let the nations be glad and sing for joy"?
+
+Many people's calling is to stay at their job. Some people may feel discontent though. This is not always a call to leave our post however. But, if it is deep, recuring, long lasting, and if it grows Biblically, then God may be calling you to a new work. If you wish to be more holy and to magnify Christ, then God may be moving you. 
+
+### My Prayer--In the End, Let None of You say, "I've wasted it!"
+
+Suggested reading of Chapter 10 in it's entirety as it cannot be reproduced here.
 
 ---
----
-When done with DWYL:
-Write a book report to family
-
+--- 
